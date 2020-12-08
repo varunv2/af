@@ -3,5 +3,5 @@ I would have wished you earlier but your dumb ass hasn't picked up my calls. Als
 
 <img src="aafu.jpg"
      alt="fool"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" style="width:500px;height:600px;"/>
 
